@@ -37,7 +37,7 @@ body {
 .card__title {
     font-size: 20px;
     color: #494b4b;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 }
 
 .card__contacts {
@@ -50,6 +50,14 @@ body {
     text-decoration: none;
     margin: 20px 0;
     font-size: 16px;
+}
+
+.site-button {
+    background-color: #789eab;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    padding: 5px 20px;
+    border-radius: 5px; font-size: 15px;
 }
 
 .card__contact:hover {
